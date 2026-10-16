@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Saloni Yadav
 
-<!--
-**SaloniG02/SaloniG02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech student learning cybersecurity through practical labs,
+programming, and documented experiments.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Networking: TCP/IP, DNS, TLS, and HTTP
+- Linux and command-line tools
+- Python and C programming
+- Web application security
+- AI/LLM security fundamentals
+
+## Projects
+
+### Networking Fundamentals Lab
+Observing DNS, connection, TLS, and HTTP timings using
+browser DevTools and command-line tools.
+
+### Web Security Write-ups
+Documenting lessons from authorized security training labs.
+
+### Security Headers Checker
+Planned Python CLI tool to inspect HTTP security headers.
+
+### AI Security Lab
+Planned experiments on prompt injection and potential mitigations.
+
+## Research Interests
+
+Software security, vulnerability discovery, web security,
+and AI/LLM security.
+
+## Learning Approach
+
+Learn the concept, test it safely, document the evidence,
+and explain the results.
+
+---
+
+I document my progress as I build and complete projects.
